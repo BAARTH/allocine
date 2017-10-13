@@ -1,6 +1,7 @@
 # Ignore tout à la racine, sauf .gitignore et "wp-content"
 *
 !.gitignore
+!.DS_Store
 !wp-content
 
 
